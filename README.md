@@ -4,7 +4,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/enesalite)
 [![Portfolio Website](https://img.shields.io/badge/Website-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.enesalite.com)
-[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[your-email@domain.com])
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enesalite@hotmail.com)
 
 ---
 
